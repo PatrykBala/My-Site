@@ -44,5 +44,43 @@ nav ul li a{
     font-size: 17px;
 }
 nav ul li a:hover{
-    color: darkred;
+    color: darkgreen;
+}
+div h1{
+    color: black;
+}
+p{
+    color: black;
+}
+.text-box{
+    margin-top: 15%;
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+
+.text-box h1{
+    font-size: 75px;
+    line-height: 160px;
+}
+.text-box a{
+    margin-top: 30px;
+    display: inline-block;
+    border-radius: 6px;
+    border: 2px solid #000;
+    color: #000;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.text-box .btn{
+    background: #F4F4F4;
+    color: #000;
+    margin-left: 30px;
+    font-weight: 600;
+}
+.user-img{
+    width: 340px;
+    position: absolute;
+    right: 8%;
+    bottom: 0;
 }
